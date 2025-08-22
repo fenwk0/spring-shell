@@ -12,7 +12,7 @@
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
 		<version>2.0.6.RELEASE</version>
-		<relativePath />
+		<relativePath/>
 	</parent>
 	<scm>
 		<url>https://github.com/spring-projects/spring-shell</url>
@@ -76,7 +76,7 @@
 			<dependency>
 				<groupId>org.springframework.shell</groupId>
 				<artifactId>spring-shell-table</artifactId>
-				<version>3.0.0.BUILD-SNAPSHOT</version>
+				<version>3.0.1</version>
 			</dependency>
 			<!-- OTHER DEPS -->
 			<dependency>
